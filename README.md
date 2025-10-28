@@ -149,3 +149,5 @@
       <p>© <span id="year"></span> </p>
     </div> CLB NHẬN THỨC SỐ - NƠI KHƠI DẬY TƯ DUY  VÀ LÀM CHỦ CÔNG NGHỆ!
   <script src="script.js"></script>
+</body>
+</html>
